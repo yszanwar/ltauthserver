@@ -1,2 +1,2 @@
 # ltauthserver
-npm install all & npm start
+npm install all && npm start
